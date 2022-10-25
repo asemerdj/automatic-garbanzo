@@ -11,5 +11,5 @@ _italics_
 - thing3
 ---
 #check boxes
-- [x] check?
-- [ ] check!
+- [ ] check
+- [ ] check
