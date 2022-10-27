@@ -8,12 +8,13 @@ markdown demo **bold** *italics*
 
 -   thing1
 
-```{=html}
 <!-- -->
-```
+
 -   thing2
 
 -   thing3
+
+------------------------------------------------------------------------
 
 # check boxes
 
